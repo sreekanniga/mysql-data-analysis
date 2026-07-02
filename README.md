@@ -13,6 +13,11 @@ This project demonstrates SQL-based data analysis using MySQL on an e-commerce s
 - `screenshots/` – Output screenshots
 - `README.md` – Project documentation
 
+## Dataset
+The dataset used in this project is a public Amazon Sales dataset obtained from Kaggle.
+
+NOTE: The original dataset is not included in this repository because it exceeds GitHub's web upload size limit. The SQL queries were executed successfully in MySQL Workbench, and the output screenshots are provided in the `Screenshots` folder.
+
 ## Key Insights
 - Retrieved and explored sales records using SQL queries.
 - Filtered data based on specific conditions.
